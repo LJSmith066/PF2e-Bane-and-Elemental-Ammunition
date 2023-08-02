@@ -1,17 +1,19 @@
 {
   "id": "pf2e-bane-and-elemental-ammunition",
   "title": "PF2e-Bane & Elemental Ammunition",
+  "description": "Discrete ammunition for each type of Bane and Elemental ammunition in PF2e.",
   "version": "1.0.0",
+  "authors": [
+    {
+      "name": "LJSmith",
+      "discord": "LJSmith",
+      "flags": {}
+    }
+  ],
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "authors": [
-    {
-      "name": "LJSmith",
-      "discord": "LJSmith"
-    }
-  ],
   "packs": [
     {
       "name": "pf2e-bane-and-elemental-ammunition",
@@ -22,11 +24,10 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     }
   ],
-  "description": "Discrete ammunition for each type of Bane and Elemental ammunition in PF2e."
-}
-"manifest": "https://github.com/LJSmith066/PF2e-Bane-and-Elemental-Ammunition/raw/main/module.json",
-"download": "https://github.com/LJSmith066/PF2e-Bane-and-Elemental-Ammunition/raw/main/pf2e-bane-and-elemental-ammunition.zip"
+  "manifest": "https://raw.githubusercontent.com/LJSmith066/PF2e-Bane-and-Elemental-Ammunition/main/module.json",
+  "download": "https://github.com/LJSmith066/PF2e-Bane-and-Elemental-  Ammunition/raw/main/pf2e-bane-and-elemental-ammunition.zip"
 }
