@@ -1,33 +1,32 @@
 {
   "id": "pf2e-bane-and-elemental-ammunition",
   "title": "PF2e-Bane & Elemental Ammunition",
-  "description": "Discrete ammunition for each type of Bane and Elemental ammunition in PF2e.",
   "version": "1.0.0",
-  "authors": [
-    {
-      "name": "LJSmith",
-      "discord": "LJSmith",
-      "flags": {}
-    }
-  ],
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
+  "description": "Discrete ammunition for each type of Bane and Elemental ammunition in PF2e.",
+  "authors": [
+    {
+      "name": "LJSmith",
+      "discord": "LJSmith"
+    }
+  ],
+  "url": "https://github.com/LJSmith066/PF2e-Bane-and-Elemental-Ammunition",
   "packs": [
     {
       "name": "pf2e-bane-and-elemental-ammunition",
       "label": "PF2e-Bane & Elemental Ammunition",
       "path": "packs/pf2e-bane-and-elemental-ammunition",
       "type": "Item",
-      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "flags": {}
+      "system": "pf2e"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/LJSmith066/PF2e-Bane-and-Elemental-Ammunition/main/module.json",
-  "download": "https://github.com/LJSmith066/PF2e-Bane-and-Elemental-  Ammunition/raw/main/pf2e-bane-and-elemental-ammunition.zip"
+  "manifest": "https://raw.githubusercontent.com/LJSmith066/LJs-Sturdy-Shields/main/module.json",
+  "download": "https://github.com/LJSmith066/LJs-Sturdy-Shields/raw/main/pf2e-ljs-sturdy-shields.zip"
 }
