@@ -27,5 +27,6 @@
       "system": "pf2e"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/LJSmith066/PF2e-Bane-and-Elemental-Ammunition/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/LJSmith066/PF2e-Bane-and-Elemental-Ammunition/main/module.json",
+  "download": "https://github.com/LJSmith066/PF2e-Bane-and-Elemental-Ammunition/raw/main/pf2e-bane-and-elemental-ammunition.zip"
 }
