@@ -27,3 +27,6 @@
   ],
   "description": "Discrete ammunition for each type of Bane and Elemental ammunition in PF2e."
 }
+"manifest": "https://raw.githubusercontent.com/LJSmith066/LJs-Sturdy-Shields/main/module.json",
+"download": "https://github.com/LJSmith066/LJs-Sturdy-Shields/raw/main/pf2e-ljs-sturdy-shields.zip"
+}
