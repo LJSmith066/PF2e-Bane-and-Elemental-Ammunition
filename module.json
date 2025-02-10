@@ -1,10 +1,10 @@
 {
   "id": "pf2e-bane-and-elemental-ammunition",
   "title": "PF2e-Bane & Elemental Ammunition",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "description": "Discrete ammunition for each type of Bane and Elemental ammunition in PF2e.",
   "authors": [
