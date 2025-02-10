@@ -3,7 +3,7 @@
   "title": "PF2e-Bane & Elemental Ammunition",
   "version": "1.1.0",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "12",
     "verified": "12"
   },
   "description": "Discrete ammunition for each type of Bane and Elemental ammunition in PF2e.",
